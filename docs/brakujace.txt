@@ -1,0 +1,10 @@
+noise gate:
+j175
+
+
+tubescreamer:
+10uF, 47uF
+
+
+
+podstawki 8pin

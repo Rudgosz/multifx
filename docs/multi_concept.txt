@@ -1,0 +1,4 @@
+tuner -> noise gate -> booster -> distortion -> delay -> (amp sim) cab sim -> IR loader
+		                  * clean *
+
+7+7+7+11+11+7+5
